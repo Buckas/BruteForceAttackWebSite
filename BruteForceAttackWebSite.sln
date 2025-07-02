@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "BruteForceAttackWebSite", "BruteForceAttackWebSite.phpproj", "{13930EE1-9C96-D0E8-59D1-45988D68E1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13930EE1-9C96-D0E8-59D1-45988D68E1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13930EE1-9C96-D0E8-59D1-45988D68E1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13930EE1-9C96-D0E8-59D1-45988D68E1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13930EE1-9C96-D0E8-59D1-45988D68E1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78DDF05-3948-4438-A4B2-AD4CD41C2418}
+	EndGlobalSection
+EndGlobal

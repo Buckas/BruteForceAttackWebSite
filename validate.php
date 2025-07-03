@@ -49,6 +49,7 @@ if ($logedIn == "TRUE") {
     $_SESSION['loggedIn'] = "TRUE";
 } else {
     $_SESSION['loggedIn'] = "FALSE";
-    header("location: login.php");
+    //header("location: login.php");
+    header("location: login.html");
 }
 ?>
